@@ -8,7 +8,7 @@
 ---
 
 <p align="left">
-  <a href="https://www.env0.com/" target="blank">
+  <a href="https://www.env0.com/" target="_blank">
     <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/19731161/266264870-7c7aeb76-06a3-4d54-bb15-68946a66106f.png" alt="env0-logo-with-text" width="30%">
   </a>
 </p>
@@ -20,7 +20,7 @@ Scale IaC with Confidence. Collaborate, deploy, and manage your Infrastructure a
 [![env0 Terraform Provider repo card](https://github-readme-stats.vercel.app/api/pin?username=env0&repo=terraform-provider-env0&show_owner=true)](https://github.com/env0/terraform-provider-env0)
 
 <p align="left">
-  <a href="https://opentofu.org/" target="blank">
+  <a href="https://opentofu.org/" target="_blank">
     <img src="https://github.com/opentofu/brand-artifacts/blob/main/full/transparent/PNG/on-light.png?raw=true" alt="OpenTofu" width="30%">
   </a>
 </p>
