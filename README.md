@@ -9,7 +9,7 @@
 
 <p align="left">
   <a href="https://www.env0.com/" target="blank">
-    <img src="https://github.com/eyarz/eyarz/assets/19731161/7c7aeb76-06a3-4d54-bb15-68946a66106f" alt="env0-logo-with-text" width="30%">
+    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/19731161/266264870-7c7aeb76-06a3-4d54-bb15-68946a66106f.png" alt="env0-logo-with-text" width="30%">
   </a>
 </p>
 
