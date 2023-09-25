@@ -13,7 +13,19 @@
   </a>
 </p>
 
-Scale IaC with Confidence. Working to ensure Terraform remains truly open source—always.
+Scale IaC with Confidence. Collaborate, deploy, and manage your Infrastructure as Code with confidence
+
+[![Terratag repo card](https://github-readme-stats.vercel.app/api/pin?username=env0&repo=terratag&show_owner=true)](https://www.terratag.io/)
+
+[![env0 Terraform Provider repo card](https://github-readme-stats.vercel.app/api/pin?username=env0&repo=terraform-provider-env0&show_owner=true)](https://github.com/env0/terraform-provider-env0)
+
+<p align="left">
+  <a href="https://opentofu.org/" target="blank">
+    <img src="https://github.com/opentofu/brand-artifacts/blob/main/full/transparent/PNG/on-light.png?raw=true" alt="OpenTofu" width="30%">
+  </a>
+</p>
+
+The open source infrastructure as code tool
 
 [![OpenTofu repo card](https://github-readme-stats.vercel.app/api/pin?username=opentofu&repo=opentofu&show_owner=true)](https://github.com/opentofu/opentofu)
 
