@@ -1,16 +1,20 @@
-### Hi there 👋
+👋 Hi there, **I'm Omry Hay**, and I'm part of the **[env0](https://www.env0.com) Engineering team** 🔧
+<p align="left">
+  <a href="https://www.linkedin.com/in/omryhay/" target="blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=omry-hay&show_icons=true&count_private=true&theme=nord&hide=stars&rank_icon=github" alt="env0-logo-with-text" width="50%">
+  </a>
+</p>
 
-<!--
-**omry-hay/omry-hay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<p align="left">
+  <a href="https://www.env0.com/" target="blank">
+    <img src="https://github.com/eyarz/eyarz/assets/19731161/7c7aeb76-06a3-4d54-bb15-68946a66106f" alt="env0-logo-with-text" width="30%">
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Scale IaC with Confidence. Working to ensure Terraform remains truly open source—always.
+
+[![OpenTofu repo card](https://github-readme-stats.vercel.app/api/pin?username=opentofu&repo=opentofu&show_owner=true)](https://github.com/opentofu/opentofu)
+
+Join the conversation: [OpenTofu Community Slack](https://communityinviter.com/apps/opentfcommunity/opentofu)
