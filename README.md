@@ -1,4 +1,4 @@
-👋 Hi there, **I'm Omry Hay**, and I'm part of the **[env0](https://www.env0.com) Engineering team** 🔧
+👋 Hi there, **I'm Omry Hay**, and I'm the co-founder and CTO of the **[env0](https://www.env0.com)** 🔧
 <p align="left">
   <a href="https://www.linkedin.com/in/omryhay/" target="blank">
     <img src="https://github-readme-stats.vercel.app/api?username=omry-hay&show_icons=true&count_private=true&theme=nord&hide=stars&rank_icon=github" alt="env0-logo-with-text" width="50%">
