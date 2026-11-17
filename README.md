@@ -7,6 +7,6 @@
 
 <p align="left">
   <a href="https://www.enso.bot/" target="_blank">
-    <img src="https://www.enso.bot/assets/enso-logo-BSGHTS7Q.png" alt="enso-logo-with-text" width="30%">
+    <img src="https://www.enso.bot/assets/enso-logo-galaxy-C-ZKVlPg.png" alt="enso-logo-with-text" width="30%">
   </a>
 </p>
